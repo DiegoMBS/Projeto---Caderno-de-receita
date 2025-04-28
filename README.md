@@ -11,6 +11,7 @@ Este projeto apresenta uma página web simples, que exibe a receita de um delici
 
 
 <br>
+
 ## 📂 Estrutura do Projeto ##
 
 📦 MeuProjeto <br>
