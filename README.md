@@ -13,11 +13,11 @@ Este projeto apresenta uma página web simples, que exibe a receita de um delici
 <br>
 📂 Estrutura do Projeto
 
-📦 MeuProjeto
-├── 📂 assets  # Contém imagens e outros arquivos estáticos
-├── 📄 .gitignore
-├── 📄 index.html  # Página principal do projeto
-├── 📄 styles.css  # Arquivo de estilos para a página
+📦 MeuProjeto <br>
+├── 📂 assets  # Contém imagens e outros arquivos estáticos <br>
+├── 📄 .gitignore <br>
+├── 📄 index.html  # Página principal do projeto <br>
+├── 📄 styles.css  # Arquivo de estilos para a página <br>
 
 <br>
 🚀 Tecnologias Utilizadas
