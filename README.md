@@ -11,7 +11,7 @@ Este projeto apresenta uma página web simples, que exibe a receita de um delici
 
 
 <br>
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto ##
 
 📦 MeuProjeto <br>
 ├── 📂 assets  # Contém imagens e outros arquivos estáticos <br>
@@ -20,7 +20,8 @@ Este projeto apresenta uma página web simples, que exibe a receita de um delici
 ├── 📄 styles.css  # Arquivo de estilos para a página <br>
 
 <br>
-🚀 Tecnologias Utilizadas
+
+## 🚀 Tecnologias Utilizadas ##
 
 HTML5
 
@@ -29,33 +30,36 @@ CSS3
 Hospedagem na Vercel
 
 <br>
-📌 Funcionalidades
+
+## 📌 Funcionalidades ##
 
 Exibição de uma receita detalhada de cupcake de café com chantilly
 
 Estilização personalizada com CSS para um layout agradável
 
 <br>
-🔧 Melhorias Futuras
+
+## 🔧 Melhorias Futuras ##
 
 * Adicionar responsividade para dispositivos móveis.
 
 * Incluir um modo escuro para leitura confortável.
 
 * Implementar um formulário para os visitantes enviarem suas próprias receitas.
-
-  
-
+* 
 <br>
-🔗 Deploy
+
+## 🔗 Deploy ##
 
 A página está disponível em: [Clique aqui para acessar](https://projeto-caderno-de-receita.vercel.app/)
 
 <br>
-👨‍💻 Desenvolvedor
+
+## 👨‍💻 Desenvolvedor ##
 
 Criado por Diego Marques.
 
 <br>
+
 Se você gostou do projeto, não se esqueça de deixar uma ⭐ no repositório!
 
